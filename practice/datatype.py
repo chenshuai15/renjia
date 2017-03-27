@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 '''
-Created on 2016年12月7日
+Created on 2016年12月8日
 python为动态语言，变量本身类型不固定
 @author: chenshuai
 '''
